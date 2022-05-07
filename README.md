@@ -19,6 +19,7 @@ As a player, I would like to play multiple times with different words
 
 Wireframe:
 https://wireframe.cc/bRowuk
+
 <img width="396" alt="Screen Shot 2022-05-07 at 6 13 07 AM" src="https://user-images.githubusercontent.com/74693076/167249905-7e6be7bc-6c93-422a-aa1c-2b3bd711e0b5.png">
 
 Unsolved Problems:
